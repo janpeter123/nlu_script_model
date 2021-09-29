@@ -1,0 +1,14 @@
+[
+    {
+      "text": "Lorem Ipsum...",
+      "labels": [
+        "Lorem"
+      ]
+    },
+    {
+        "text": "...Ipsum...",
+        "labels": [
+          "Ipsum"
+        ]
+      }
+]
