@@ -10,5 +10,5 @@ The label **text** and the label **labels** are **mandatory**, **labels** needs 
 
 ## 😧 Warning:
  - If you are trying to create more than **one model** on a **Lite Account** this should be **not possible** due Lite Account limitations.
- - The language to train the model is defined to be **Portuguese** to change to English just change **pt** for **en**
+ - The language to train the model is defined to be **Portuguese** to change it for English just change **pt** for **en**
 
